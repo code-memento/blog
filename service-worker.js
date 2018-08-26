@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "11847939e4ad515d02635fa5d4a52e7d"
+    "revision": "feee70e56031dae9e551c77907e967c7"
   },
   {
     "url": "about-me.html",
-    "revision": "1655bc31ff54b9c02913fba7b90c6407"
+    "revision": "baeae3294e2a5fe5cbaffe53cff325de"
   },
   {
     "url": "assets/css/0.styles.e9b44298.css",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "revision": "1eb4025fc9e5012e4505291a8001eb63"
   },
   {
-    "url": "assets/js/6.c7e1e944.js",
-    "revision": "9f3f58e5cfe635ae8223583ab29c27f9"
+    "url": "assets/js/6.669ecf58.js",
+    "revision": "b4a81fdeaec5c9f660332c83769dc8f6"
   },
   {
     "url": "assets/js/7.2f5e55ed.js",
@@ -96,16 +96,16 @@ self.__precacheManifest = [
     "revision": "9154f34a66f3e26fc089badaa6d44db0"
   },
   {
-    "url": "assets/js/app.0fb877e5.js",
-    "revision": "2ec3e2335edaabd0e056932268bfb272"
+    "url": "assets/js/app.9e95612b.js",
+    "revision": "d5ddec08d9d42ffe5c0fcba35905f3a6"
   },
   {
     "url": "chapter-2/index.html",
-    "revision": "afc65ef277f427aa19d39197bf189b0c"
+    "revision": "3dd180f13f688a5b58dae2aa172903b9"
   },
   {
     "url": "guide.html",
-    "revision": "ced04c2083643f5842d1710ef955cf65"
+    "revision": "290a3bc0947250454a1a1eb8fb34f2e5"
   },
   {
     "url": "images/code-memento.png",
@@ -117,35 +117,35 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "391643fed37dca549d2f22a988184043"
+    "revision": "c6d6eceff1a4be1c1209e55233c46893"
   },
   {
     "url": "java/eclipse-ntlm.html",
-    "revision": "cb2082a5f411df77ee246d11b185474d"
+    "revision": "ed9b6fa806c3e5037ed860227e1150a6"
   },
   {
     "url": "java/enums.html",
-    "revision": "a9b3256440d6453e87c53ba389101f8f"
+    "revision": "7d0d79d7eb7dad8f1cfe57085d3dfbe7"
   },
   {
     "url": "java/index.html",
-    "revision": "ca511f1c75109b3df398ff08f2ec65a9"
+    "revision": "65fce57bebc3bce66898249f025ee395"
   },
   {
     "url": "java/java-types.html",
-    "revision": "664de0f15160bc0202e63172e52724dc"
+    "revision": "c986a8527682b17156f02850ca652fb4"
   },
   {
     "url": "tips/detective-developer.html",
-    "revision": "d5a38bbf6f5bac251c9f1970f5c709cc"
+    "revision": "6593a14f8eefeb60311696e05ddb3e59"
   },
   {
     "url": "tips/index.html",
-    "revision": "d9f897256a095cd320116fe0af196e52"
+    "revision": "85d10dff748b215d361d2f3cec29d60a"
   },
   {
     "url": "tips/two-minutes-rule.html",
-    "revision": "c364a1ddc56873a94158245fdbcfc9e7"
+    "revision": "f0e0053b4bf51f40dccd54085a2da536"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
