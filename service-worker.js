@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "feee70e56031dae9e551c77907e967c7"
+    "revision": "0d983b163dfe3f9247c454625775e516"
   },
   {
     "url": "about-me.html",
-    "revision": "baeae3294e2a5fe5cbaffe53cff325de"
+    "revision": "e2182763e01f6d8dab655015b1ca54e1"
   },
   {
     "url": "assets/css/0.styles.e9b44298.css",
@@ -96,16 +96,16 @@ self.__precacheManifest = [
     "revision": "9154f34a66f3e26fc089badaa6d44db0"
   },
   {
-    "url": "assets/js/app.9e95612b.js",
-    "revision": "d5ddec08d9d42ffe5c0fcba35905f3a6"
+    "url": "assets/js/app.fac954b9.js",
+    "revision": "571d24efa754370098a4017bcfd8c39a"
   },
   {
     "url": "chapter-2/index.html",
-    "revision": "3dd180f13f688a5b58dae2aa172903b9"
+    "revision": "ecfd15bda5286637798d9f0d004db625"
   },
   {
     "url": "guide.html",
-    "revision": "290a3bc0947250454a1a1eb8fb34f2e5"
+    "revision": "29989b78708a5d0ac14ab2fd724e6594"
   },
   {
     "url": "images/code-memento.png",
@@ -117,35 +117,35 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c6d6eceff1a4be1c1209e55233c46893"
+    "revision": "ff63fb890f5ae96540ddbf7cae27dcd2"
   },
   {
     "url": "java/eclipse-ntlm.html",
-    "revision": "ed9b6fa806c3e5037ed860227e1150a6"
+    "revision": "a7cda9a9d3d230f493809474eeb71830"
   },
   {
     "url": "java/enums.html",
-    "revision": "7d0d79d7eb7dad8f1cfe57085d3dfbe7"
+    "revision": "2078032210de44f58d3bf5eb82812cab"
   },
   {
     "url": "java/index.html",
-    "revision": "65fce57bebc3bce66898249f025ee395"
+    "revision": "3d5fb4a9ed25df52df668e8da51d20db"
   },
   {
     "url": "java/java-types.html",
-    "revision": "c986a8527682b17156f02850ca652fb4"
+    "revision": "a2399f04206e34aa700b40c51b36b2d1"
   },
   {
     "url": "tips/detective-developer.html",
-    "revision": "6593a14f8eefeb60311696e05ddb3e59"
+    "revision": "5dc38042528eea8d5544fef94d60036c"
   },
   {
     "url": "tips/index.html",
-    "revision": "85d10dff748b215d361d2f3cec29d60a"
+    "revision": "d8279a74b2936b959205605ff7a937c7"
   },
   {
     "url": "tips/two-minutes-rule.html",
-    "revision": "f0e0053b4bf51f40dccd54085a2da536"
+    "revision": "6c2eb022583a7683e8c6f9df45d2b903"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
