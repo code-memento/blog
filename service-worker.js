@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c5d011a5781be708c37d20533b141def"
+    "revision": "a324ac20e4c43bacc5d351cd8acf1283"
   },
   {
     "url": "about-me.html",
-    "revision": "b17bbae1fe3918c1296ba9559d88eb71"
+    "revision": "e71238001e495b7a76481a40b3bfbe5e"
   },
   {
     "url": "assets/css/0.styles.e9b44298.css",
@@ -40,36 +40,40 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.a519b2bf.js",
-    "revision": "ddf6859b0ce1fc39f2ab4ddf5e6d35a6"
+    "url": "assets/js/10.6cf78aff.js",
+    "revision": "14284d712a6246cf4e2a2ebc88e42e29"
   },
   {
-    "url": "assets/js/11.1445742b.js",
-    "revision": "083e0a1a57f55d4ace03ab6152311edb"
+    "url": "assets/js/11.9124354a.js",
+    "revision": "437bf83a3dabc2ded47cf7cf6176c4d6"
   },
   {
-    "url": "assets/js/12.f2cdf218.js",
-    "revision": "f101030fb258d8bfbaea4ce6d90e27fc"
+    "url": "assets/js/12.14390c1f.js",
+    "revision": "bd81cc06e8dfe3da839ab9a71b2da909"
   },
   {
-    "url": "assets/js/13.45e29653.js",
-    "revision": "c9ae535d398fb9e71c3aa96175e8a491"
+    "url": "assets/js/13.fce750cd.js",
+    "revision": "3c66679f8a5ded6600c09e8979f51dc9"
   },
   {
     "url": "assets/js/14.1e61986b.js",
     "revision": "197558437c489979e9ea040384a933e6"
   },
   {
-    "url": "assets/js/15.fa46346c.js",
-    "revision": "3455cdf0523c2decc95cf894ac56acf9"
+    "url": "assets/js/15.c49fad88.js",
+    "revision": "a439e1efb5a8e8cc10671abbad43941d"
   },
   {
-    "url": "assets/js/16.ea22c86f.js",
-    "revision": "38913b3852160eff28f73d93699cfd78"
+    "url": "assets/js/16.21745cef.js",
+    "revision": "29bfc5253fc66279330f6c7f393e5468"
   },
   {
-    "url": "assets/js/17.3cad8fa1.js",
-    "revision": "709d883573db61e92f72e6d9c205cae5"
+    "url": "assets/js/17.a5aa9cd8.js",
+    "revision": "aeffabfa7623825a44a9f139364acc7f"
+  },
+  {
+    "url": "assets/js/18.041bb643.js",
+    "revision": "a116ea2b5b752d8c2780fd67c540b0ca"
   },
   {
     "url": "assets/js/2.90a804d4.js",
@@ -84,44 +88,44 @@ self.__precacheManifest = [
     "revision": "e4c171d2ab93e85e602b04017127630c"
   },
   {
-    "url": "assets/js/5.57cfe5a7.js",
-    "revision": "c1f472223a65f71824fe1bce072c3118"
+    "url": "assets/js/5.4055419d.js",
+    "revision": "2cf1b787da788d06b796b8abdfbc02c3"
   },
   {
-    "url": "assets/js/6.08952d3f.js",
-    "revision": "d4b8b161a32825c67ac537a96be5b47b"
+    "url": "assets/js/6.e0874ded.js",
+    "revision": "f14c3b866a2de2a51c1de6ac88a8edb9"
   },
   {
-    "url": "assets/js/7.8b6db3a5.js",
-    "revision": "18aec529e8dfb6c0470e5aef471f983c"
+    "url": "assets/js/7.4c493e9f.js",
+    "revision": "cf22ee637fa793baac640c6d78708840"
   },
   {
-    "url": "assets/js/8.26a4574d.js",
-    "revision": "eb0abeeaf57979be1e466eb3c2427379"
+    "url": "assets/js/8.3c8bf4aa.js",
+    "revision": "8aed285f82e194ec29f7b3c95e438f93"
   },
   {
-    "url": "assets/js/9.a101ee9d.js",
-    "revision": "adb3fabf5bdc25e29d49085b6a76696b"
+    "url": "assets/js/9.1d6cd1c9.js",
+    "revision": "7b42e1bbb92b34d794b6b0f88c1ca7f4"
   },
   {
-    "url": "assets/js/app.f6774eef.js",
-    "revision": "b55c9e3302d980e99eb3c45b8774cca7"
+    "url": "assets/js/app.58bacb80.js",
+    "revision": "a1e3906a6a11e1222e1778d0445476c0"
   },
   {
     "url": "frontend/anglular-tricks.html",
-    "revision": "d5a462d795aa16920c9b601ab540946e"
+    "revision": "bc04c9b395ad70408516a861da469d7d"
   },
   {
     "url": "frontend/angular-useful-pipes.html",
-    "revision": "5917fe06537306881a20e9f61e81901a"
+    "revision": "cc8cef87abaa6f3326e39d60d901d1e5"
   },
   {
     "url": "frontend/index.html",
-    "revision": "f6a59de10735a9b2dbe316118f6b5e22"
+    "revision": "a5ef28cad3a626abb632c4588b3afc58"
   },
   {
     "url": "guide.html",
-    "revision": "f3f6c721347dbfeebf403d46c1c9001e"
+    "revision": "d98b06393b142270ea5923865d96aa0a"
   },
   {
     "url": "images/code-memento.png",
@@ -133,35 +137,39 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a5f883be38b7078490951b62f89863a8"
+    "revision": "4169bc5cb2053bf31911e54739e37083"
   },
   {
     "url": "java/eclipse-ntlm.html",
-    "revision": "33d6cd145cb38248c7255272c38b1788"
+    "revision": "ff0734ec0f5000cb4eebb8717d75d259"
   },
   {
     "url": "java/enums.html",
-    "revision": "acb42ba87ead3deb2f922471e7fac9c1"
+    "revision": "d533bd8ffcb9e712e511a2e470d9a6e8"
   },
   {
     "url": "java/index.html",
-    "revision": "69c421ac7abaef8c36d6ff298d75dd60"
+    "revision": "64cf52c794049db0a40e724664eef7bf"
   },
   {
     "url": "java/java-types.html",
-    "revision": "a7558db8717b0ddc4dc2af70d36b0c30"
+    "revision": "0652f04d76115a2728b1be5250411e77"
+  },
+  {
+    "url": "java/tomcat-tricks.html",
+    "revision": "ace24bcbebd634d4ed90a1cfe7928e9e"
   },
   {
     "url": "tips/detective-developer.html",
-    "revision": "e1bef6808e97f8575ec9e6cf3a6b2c4a"
+    "revision": "6a51377707279f086a26c9367a8396ac"
   },
   {
     "url": "tips/index.html",
-    "revision": "9e6903c0049c24b11e30059de5b6fcdb"
+    "revision": "5724b36dbb1761efd6d6f3bc1781c5a8"
   },
   {
     "url": "tips/two-minutes-rule.html",
-    "revision": "5388197fe29cb6c7ee6d0bbdaf20af48"
+    "revision": "e097bf3b7018737b6cbbb0ccbf2cb2fe"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
