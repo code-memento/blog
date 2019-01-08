@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{192:function(n,t,e){"use strict";e.r(t);var c={data:function(){return{name:"Vue"}}},o=e(0),s=Object(o.a)(c,function(){var n=this.$createElement;return(this._self._c||n)("h3",[this._v("My "+this._s(this.name)+" component")])},[],!1,null,"cc0dca20",null);s.options.__file="my-component.vue";t.default=s.exports}}]);
